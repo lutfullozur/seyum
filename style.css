@@ -1,0 +1,40 @@
+body{
+background-image: url(./photo_2023-12-12_22-40-29.jpg);
+}
+a{
+    padding: 30px;
+    text-decoration: none;
+    color: white;
+    margin-left: 150px;
+     
+    font-size: 20px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff0000;
+    background: linear-gradient(45deg,rgb(0, 247, 255),rgb(255, 0, 144));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.logo{
+    width: 10%;
+    display: inline-block;
+}
+.container{
+    display: flex;
+}
+.item{
+    width: 25%;
+    margin-left: 80px;
+}
+.item1{
+    width: 25%;
+    margin-left: 80px;
+}
+.item2{
+    width: 25%;
+    margin-left: 80px;
+}
+.pz{
+    margin-top: -100px;
+}
